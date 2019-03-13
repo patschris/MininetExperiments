@@ -4,10 +4,17 @@
 Mininet-WiFi is a fork of [Mininet](http://mininet.org/) which allows the using of both WiFi Stations and Access Points. It is an emulator for Software Defined Networking that makes simple to create topologies and run network scenarios. For more details see [here](https://github.com/intrig-unicamp/mininet-wifi).
 
 ## Experiment 1
+![Exp1_Ph1](https://github.com/patschris/MininetExperiments/blob/master/photos/Exp1_Ph1.PNG)
+![Exp1_Ph2](https://github.com/patschris/MininetExperiments/blob/master/photos/Exp1_Ph2.PNG)
+![Exp1_Ph3](https://github.com/patschris/MininetExperiments/blob/master/photos/Exp1_Ph3.PNG)
+
 Presented on the article ["From Theory to Experimental Evaluation: Resource Management in Software-Defined Vehicular Networks"](https://www.researchgate.net/publication/313872461_From_Theory_to_Experimental_Evaluation_Resource_Management_in_Software-Defined_Vehicular_Networks)
 
 
 ## Experiment 2
+![Exp2_Ph1](https://github.com/patschris/MininetExperiments/blob/master/photos/Exp2_Ph1.PNG)
+![Exp2_Ph2](https://github.com/patschris/MininetExperiments/blob/master/photos/Exp2_Ph2.PNG)
+
 Presented on the article ["Mininet-WiFi: A Platform for Hybrid Physical-Virtual Software-Defined Wireless Networking Research"](https://www.researchgate.net/publication/305782558_Mininet-WiFi_A_Platform_for_Hybrid_Physical-Virtual_Software-Defined_Wireless_Networking_Research)
 
 
